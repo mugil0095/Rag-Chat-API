@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+firebase-admin
+pinecone-client
+transformers
+torch
+PyPDF2
+requests
+python-dotenv
+pydantic
